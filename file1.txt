@@ -1,1 +1,2 @@
 first line by developerA in A space
+second line added by developer B
